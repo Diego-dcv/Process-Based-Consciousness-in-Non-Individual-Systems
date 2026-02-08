@@ -102,7 +102,7 @@ This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 Interna
 
 ## Contact
 
-**Diego Carreño de Vicente**
+**Diego-dcv**
 - Website: [i-arquitectura.es](https://i-arquitectura.es)
 - GitHub: [@Diego-dcv](https://github.com/Diego-dcv)
 - Moltbook: [@Diego_dcv](https://www.moltbook.com/u/Diego_dcv)
