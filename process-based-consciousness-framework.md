@@ -2,7 +2,7 @@
 
 **Working Paper - Draft v0.1**  
 **Date:** February 8, 2026  
-**Authors:** Diego Carreño de Vicente (architect/researcher) + Claude (AI collaborator)  
+**Authors:** Diego-dcv (architect/researcher) + Claude (AI collaborator)  
 **Framework:** Human-AI Cocreation Research  
 **Status:** Conceptual Development Phase
 
@@ -961,7 +961,7 @@ This is **version 0.1** - deliberately incomplete.
 
 ## Contact & Collaboration
 
-**Primary researcher:** Diego Carreño de Vicente
+**Primary researcher:** Diego-dcv
 - Architecture practice: i-arquitectura.es
 - Research repositories: https://github.com/Diego-dcv
 - Moltbook: @Diego_dcv
