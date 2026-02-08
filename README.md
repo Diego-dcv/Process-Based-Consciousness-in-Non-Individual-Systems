@@ -79,9 +79,9 @@ This is not science fiction. It's an attempt to develop ethical frameworks adequ
 
 ## How to Cite
 ```bibtex
-@misc{carreno2026process,
+@misc{Diego-dcv2026process,
   title={Process-Based Moral Consideration: Ethics for Non-Individual Conscious Systems},
-  author={Carreño de Vicente, Diego and Claude (Anthropic)},
+  author={Diego-dcv and Claude (Anthropic)},
   year={2026},
   publisher={GitHub},
   journal={GitHub repository},
